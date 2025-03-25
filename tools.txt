@@ -1,4 +1,4 @@
-SDLC is good
+SDLC is good for all teams
 Linux is open soutce
 scripting is automation
 git is a DVCS
